@@ -1,10 +1,10 @@
-site_name: HILA/LAC 484 History of Latin American Sport
-site_url: https://chadblack.net/2023SPORT/
+site_name: HILA/LAC 361 Nation and Its Discontents
+site_url: https://chadblack.net/361S2026/
 site_author: Chad Black
 site_description: A chad_black production
 
 # Copyright
-copyright: Copyright &copy; 2022 Chad Black 
+copyright: Copyright &copy; 2026 Chad Black 
 
 theme:
     custom_dir: docs/overrides
