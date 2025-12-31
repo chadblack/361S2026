@@ -2,12 +2,12 @@
 title: Course Info 
 ---
 
-### History of Latin American Sport
+### Modern Latin America: Nation and its Discontents
 
-HILA 484   
-TR 12:55-2:10   
-BUE 476   
-Spring 2023  
+HILA/LAC 361
+TR 11:20-12:35   
+HSS 112   
+Spring 2026  
 
 **Prof. Chad Black**
 
