@@ -4,16 +4,16 @@ title: Course Info
 
 ### Modern Latin America: Nation and its Discontents
 
-HILA/LAC 361
-TR 11:20-12:35   
-HSS 112   
-Spring 2026  
+HILA/LAC 361   
+TR 11:20-12:35     
+HSS 112    
+Spring 2026     
 
 **Prof. Chad Black**
 
 **Email:** cblack6-at-utk.edu   
-**Office:** 2627 Dunford Hall, 6th Floor (until the night they drive old Dunford down)  
-**Office Hours:** Tuesday, 2:30-4:30, or by appointment.
+**Office:** 621 SMC     
+**Office Hours:** Tuesday, 1:30-3:30, or by appointment.   
 
 ### About
 
