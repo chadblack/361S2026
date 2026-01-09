@@ -4,59 +4,59 @@ title: Calendar
 
 ## Week 1: Introduction 
 
-Tuesday, January 20, 2026
+**Tuesday, January 20, 2026**
 
 **Read:**   
 - The whole website. Every word.
 
-Thursday, January 22, 2026  
-
-**Read:**  
-
-- Steve Stern, “The Tricks of Time: Colonial Legacies and Historical Sensibilities in Latin America,” _The Princeton University Library Chronicle_ 57.3 (Spring 1996), pp. 371-392.
-
-## Week 2: 
-
-Tuesday, January 27, 2026 
+**Thursday, January 22, 2026**  
 
 **Read:**  
 
 
-Thursday, January 29, 2026  
+
+## Week 2: Space and Time
+
+**Tuesday, January 27, 2026** 
+
+**Read:**  
+
+* Steve Stern, “The Tricks of Time: Colonial Legacies and Historical Sensibilities in Latin America,” _The Princeton University Library Chronicle_ 57.3 (Spring 1996), pp. 371-392.
+
+**Thursday, January 29, 2026**  
 
 **Read:**  
 
 
 ## Week 3: 
 
-Tuesday, February 3, 2026
+**Tuesday, February 3, 2026**
 
 **Read:**  
 
 
-Thursday, February 5, 2026  
+**Thursday, February 5, 2026**  
 
 **Read:**  
 
 
 ## Week 4: 
 
-Tuesday, February 10, 2026
+**Tuesday, February 10, 2026**
 
 **Read:**  
 
 
-Thursday, February 12, 2026
+**Thursday, February 12, 2026**
 
 **Read:**  
 
 
 ## Week 5: 
 
-Tuesday, February 17, 2026
+**Tuesday, February 17, 2026**
 **Read:**  
 
-- Joshua Nadel, *Fútbol!*, Introduction and Chapter 1.
 
 Thursday, February 19, 2026
 **Read:**  

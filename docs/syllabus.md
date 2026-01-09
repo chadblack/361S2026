@@ -11,31 +11,17 @@ Spring 2026
 
 **Prof. Chad Black**
 
-**Email:** cblack6-at-utk.edu   
+**Email:** cblack6-at-utk.edu    
 **Office:** 621 SMC     
-**Office Hours:** Tuesday, 1:30-3:30, or by appointment.   
+**Office Hours:** Tuesday, 1:30-3:30, or by appointment.    
 
 ### About
 
-Modern organized sports swept to popularity in Latin America in the late nineteenth century first with the region’s elite and middle classes. They mingled with older festival and regional past times such as bull fighting and horse racing, but offered a vision for self improvement, as a civilizing tool, and then later were embraced by the masses. This course will analyze the history of sport in Latin America, from the pre-conquest ball game to modern sports like fútbol (soccer), boxeo (boxing), beisbol (baseball), and as a window to how people imagine themselves, their values, their participation in local and national communities of citizenship, and more. We will also analyze the impact of international sporting events on the region, including the Olympics and the World Cup.
-
-### Readings
-
-Students are required to purchase the following texts for this course:
-
-- Burgos Jr., Adrian. *Playing America's Game: Baseball, Latinos, and the Color Line*. Berkeley: University of California Press, 2007.
-- Elsey, Brenda and Joshua Nadael. *Futbolera: A History of Women and sports in Latin America*. Austin: University of Texas Press, 2019.
-
-Other readings will be provided electronically.
-
-### Course Requirements
-
-Students are required to engage in this class. Learning is an interactive process, and requires active participation by all members of the class. Students need to read, write, and attend class in order to be successful. These assignments are designed to contribute to the overall objectives of the semester, including both content-specific and skill-based goals.
+Why did the world divide into nation-states and colonial territories beginning in the late 18th-century? The nation-state as a social formation is quite young, but claims for itself deep roots that give it an appearance beyond history, even as it claims history. This class will examine a series of case studies from Latin America to examine the history of this spatial and temporal innovation of capitalist modernity. 
 
 ### Course Objectives
 
-1.  To introduce students to the forces, events, and conflicts that defined the process by which modern sport emerged in Latin America, the connection of sport to nationalism and other forms of belonging, and the connection between sport and broader processes of Latin American history.
-    
+1.  To introduce students to the forces, events, and conflicts that defined the process by which Latin American nation-states were created and positioned in the global economy.
 2.  To understand and use a variety of sources that provide the core of historical inquiry.
     -   Primary written sources, and their particular challenges.
     -   Secondary sources, and how to read them critically.
@@ -52,9 +38,9 @@ Students are required to engage in this class. Learning is an interactive proces
 
 **Deadlines:** Assignments must be turned in to the instructor or teaching assistant at the end of class on the day they are due, unless otherwise arranged by the professor. Late papers will not be accepted without **prior arrangement**, for any reason. This includes technology problems.
 
-**Cell Phones and Laptops:** Please silence cell phones during to class. Please do not text during class. Cell phones ought to be put away for the duration of our meetings. Laptops are allowed only for tasks related to this class. Distracting use of technology (social media, surfing, GroupMe chats, etc.) causes problems not only for your own learning, but for those around you. Research shows that analog notetaking improves learning. Consider having paper with you. Based on the prevailing literature, hand note-taking– both while reading and in class– leads to substantially better educational outcomes. You are not required to have a laptop in class, so feel free to leave it at home. If, however, you have reason to use your laptop for notetaking, I won’t stop you from doing so.
+**Cell Phones and Laptops:** Please silence cell phones during class. Please do not text during class. Cell phones ought to be put away for the duration of our meetings. Laptops are allowed only for tasks related to this class. Distracting uses of technology (social media, surfing, GroupMe chats, etc.) cause problems not only for your own learning, but for those around you. Research shows that analog note-taking improves learning. Consider having paper with you. Based on the prevailing literature, hand note-taking– both while reading and in class– leads to substantially better educational outcomes. You are not required to have a laptop in class, so feel free to leave it at home. If, however, you have reason to use your laptop for note-taking, I won’t stop you from doing so.
 
-**Plagiarism and Academic Honesty:** Plagiarism occurs when someone knowingly or unknowingly presents another person’s words or ideas as his or her own. Any work turned in for this class must meet University standards for academic honesty. Any students unsure about how to apply these rules are urged to consult with me prior to turning in any written work.
+**Plagiarism and Academic Honesty:** All work you turn in must be your own, and not another student’s or produced by AI. Plagiarism occurs whenever one intentionally or unintentionally uses another's work without proper citation. Generative AI has added an addition layer to academic honesty. For this class, they are to be considered out of bounds. Do not submit work produced by or with the assistance of LLMs, for example generative AI such as chatGPT, grok, Gemini, Copilot, Claude, etc. The assignments in this course are designed to teach you how to think and reason like a historian. Writing is thinking. If someone or something else is doing your writing, it’s also doing your thinking. Except that LLMs do not think. They also are not search engines, databases, or indices of the web or human knowledge. They are very sophisticated statistical models that generate sequences of words or phrases that are indifferent to truth. If you use AI, you might get away with it. But if you don't, you will fail the class. 
 
 **Drop In Office Hours:** Students are strongly encouraged to speak with me outside of class. The advantages of talking with me include: extra help on an assignment or preparation for an exam; clarification of materials covered in lecture, discussion of my comments on your work; discussion of this or related courses. I am available during office hours on a first-come, first-served basis; if you cannot come by during office hours, please contact me via email or phone and I will be happy to set up an appointment with you.
 
