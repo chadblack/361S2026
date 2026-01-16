@@ -37,10 +37,10 @@ Our in-class activities will include things like writing précis and research me
 
 ## Assignment Upload Dates
 
-First:  
-Second:  
-Third:  
-Fourth/Fifth:  
+First:  **FEBRUARY 15**
+Second:  **MARCH 26**
+Third:  **APRIL 17**
+Fourth/Fifth:  **MAY 10**
 
 ## Assignments. 
 
