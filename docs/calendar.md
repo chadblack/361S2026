@@ -100,7 +100,7 @@ Welcome to class! This week, we will cover the expectations of the course and th
 
 **Read:**  
 
-* Earle, Rebecca. (2007). "Citizenship and Civilization: The 'Indian Problem.'" Ch. 6 in *The Return of the Native*. Duke University Press.
+* Grompone-Velásquez, Alvaro. (2025). "The Quest for Virile National Progress: Modernity, Masculinity, and Intraclass Disputes in Peruvian Intellectual Elites, 1884-1912." *Latin American Research Review*. [Published online](https://www.cambridge.org/core/journals/latin-american-research-review/article/quest-for-virile-national-progress-modernity-masculinity-and-intraclass-disputes-in-peruvian-intellectual-elites-18841912/730BD52F9651A519FA2AF18F274D7D2C).
 
 **Thursday, March 5, 2026**
 
