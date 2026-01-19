@@ -1,6 +1,6 @@
 # Benchmark Assignment 4: Write like a (Weird) Historian. 
 
-**DUE: MAY 10** 
+**DUE: MAY 14** 
 
 
 For our final benchmark, students will analyze a film from Latin America through the theoretical and historical lens that we have developed this semester. The best papers will chose films that are not strictly historical, and identify within them the historical work of the social formation capital-nation-state. This is a challenging task, and we're not looking exactly for traditional film criticism or for the type of "historical critique" that tires to identify the authentic and inauthentic in the film. 

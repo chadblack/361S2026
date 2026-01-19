@@ -40,14 +40,14 @@ Our in-class activities will include things like writing précis and research me
 First:  **FEBRUARY 15**.     
 Second:  **MARCH 26**.    
 Third:  **APRIL 17**.    
-Fourth/Fifth:  **MAY 10**.    
+Fourth/Fifth:  **MAY 14**.    
 
 ## Assignments. 
 
 1. [Benchmark Assignment 1: Capital. Nation. State.](http://chadblack.net/361S2026/Benchmark1/)  
 2. [Benchmark Assignment 2: The Sport Pages.](http://chadblack.net/361S2026/Benchmark2/)
 3. [Benchmark Assignment 3: Where'd that come from?](http://chadblack.net/361S2026/Benchmark3/) 
-4. [Benchmark Assignment 4: Write like a Historian.](http://chadblack.net/361S2026/Benchmark1/)  
+4. [Benchmark Assignment 4: Write like a Historian.](http://chadblack.net/361S2026/Benchmark4/)  
 
 Historians largely operate though texts, be they the textual remains of the past preserved in archives, contemporary theory, or historiographic development over time. Our work this semester will engage this full array of texts, and you will practice reading, thinking, researching, writing, etc. like a historian. 
 
