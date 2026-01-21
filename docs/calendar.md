@@ -131,11 +131,13 @@ Thursday, March 12, 2026
 **Tuesday, March 24, 2026**  
 
 * Knight, Alan. *The Mexican Revolution: A Very Short History*, chapters 3-5.
+* Mexican Revolution lecture. 
 
 **Read:**  
 
 **Thursday, March 26, 2026**  
 
+**No class! I'll be at SECOLAS presenting a paper!**
 
 ## Week 11:  Mexico III
 
