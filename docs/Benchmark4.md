@@ -7,6 +7,8 @@ For our final benchmark, students will analyze a film from Latin America through
 
 What pasts does the film recruit into the present? What implicit or explicit claims does it make as to the meaning of nation, state, and capital within the frame of its national cinema? Return to the opening weeks of the semester, and see if you can identify those theoretical threads at work in the film. There are many, many films that will qualify. So, you will pick your film in consultation with Dr. Black no later than March 31st. We will likewise chose three readings to go with the film. You will be limited to those readings and the film in your analysis. 
 
+[Here's a non-exhaustive list](https://chadblack.net/361S2026/resources/films/) of possible films.
+
 Use prose, with paragraphs, as if in a traditional essay.  
 
 * Include a word count. Your assignment should be between 1500 and 2000 words.  
