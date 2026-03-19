@@ -130,8 +130,7 @@ Thursday, March 12, 2026
 
 **Tuesday, March 24, 2026**  
 
-* Knight, Alan. *The Mexican Revolution: A Very Short History*, chapters 3-5.
-* Mexican Revolution lecture. 
+* Watch _Que Viva Mexico_ on Canvas, and discuss the film there.
 
 **Read:**  
 
@@ -145,7 +144,8 @@ Thursday, March 12, 2026
 
 **Read:**  
 
-* Joseph, Gill & Jurgen Buchenau. (2013). "Forging and Contesting a New Nation, 1920-1932." *Mexico's Once and Future Revolution*. Duke University Press. 
+* Knight, Alan. *The Mexican Revolution: A Very Short History*, chapters 3-5.
+ 
 
 **Thursday, April 2, 2026**   -- Spring Recess
 
@@ -155,12 +155,12 @@ Thursday, March 12, 2026
 
 **Read:**
 
-* Joseph & Buchenau, "Resurrecting and Incorporating the Revolution, 1932-1940."
+* Joseph, Gill & Jurgen Buchenau. (2013). "Forging and Contesting a New Nation, 1920-1932." *Mexico's Once and Future Revolution*. Duke University Press.
 
 
 **Thursday, April 9, 2026**
 
-* Watch *Que Viva México* + discussion.
+* Joseph & Buchenau, "Resurrecting and Incorporating the Revolution, 1932-1940."
 
 ## Week 13: Guatemala I 
 
